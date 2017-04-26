@@ -1,3 +1,4 @@
 Ð?n c? con kh? c?ng hi?u ðý?c l?nh Git
 add: ðãng k? thay ð?i
 pull: L?y n?i dung c?a remote repository
+commit: Lýu l?i tr?ng thái c?a index
